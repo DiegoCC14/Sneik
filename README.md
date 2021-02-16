@@ -1,15 +1,5 @@
 # Sneik
 Juego de la viborita realizado con python 3.8
 
-Buenos dias fasklflsaklfa
-fsakfsaklflsakfksalf
-saflaskflasfkaslklfasd
-as
-dskaf'lkas'fk'dsfk
-dsgk
-fkgsdgsadfgdfk
-g
-sfdgsfdk
-g'f'kf
-kg
-s'fgkfd';k
+El juego requiere la instalacion de las bibliotecas:
+  pynput 1.7.3 (vercion 10 Febrero 2021)
